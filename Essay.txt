@@ -1,0 +1,3 @@
+## Questions:
+Would preference be an alternative for RL?
+What is the difference between goals and preferences?
