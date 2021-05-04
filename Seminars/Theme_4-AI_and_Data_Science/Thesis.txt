@@ -1,0 +1,11 @@
+Data, Knowledge and Understanding are Different Sides of the Same Coin
+
+I argue that investing more efforts in data and how to use if for the benefit of science would bring tremendous benefits. Not only now but also looking ahead into future. We should allow more freedom to interpretation and not hold painstakingly on to the proven ways.
+
+As we advance, increasingly more data is becoming available. This arguably brings about the limits for the classical scientific method. The growing size in data brings also higher complexity to it. In science, as we learn more information, we essentially go deeper in questions and what we want to induce next. The more we know, the more we understand how little we know.
+
+To go forward, having an alternative for doing science would be quite beneficial. Right now, a large part of the scientific community is focussed on discussing and agreeing in consensus through scientific model building - from thesis to real world implication. It introduces bias through the designing phase, though. At the same time, we are becoming increasingly less capable in interpreting data and making that good research question in the first place.
+
+Gaining knowledge from data does not have to be directed by a concrete question. As computation is becoming more feasible, we should be able to leverage inferencing on the data without the need to limit our scope during investigation. All leads can be important and essentially, are to some degree.
+
+Companies are already showing the benefits what this approach can bring. We don't have to start from the place of understanding but can grow towards it and learn as we go along.
